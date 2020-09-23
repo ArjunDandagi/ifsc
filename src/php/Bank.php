@@ -1090,6 +1090,7 @@ class Bank
     const SHRX = 'SHRX';
     const SHSX = 'SHSX';
     const SHUX = 'SHUX';
+    const SHUB = 'SHUB';
     const SIBL = 'SIBL';
     const SIBX = 'SIBX';
     const SICX = 'SICX';

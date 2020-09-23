@@ -1084,6 +1084,7 @@ module.exports = Object.freeze({
   SHOX: 'SHOX',
   SHRX: 'SHRX',
   SHSX: 'SHSX',
+  SHUB: 'SHUB',
   SHUX: 'SHUX',
   SIBL: 'SIBL',
   SIBX: 'SIBX',
